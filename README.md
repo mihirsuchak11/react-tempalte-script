@@ -2,6 +2,10 @@
 
 ## Installation
 
+
+[medium-reference](https://medium.com/@chrisjpatty/extending-create-react-app-to-make-your-own-app-generator-5d7b1ddc246).
+[github-reference](https://github.com/chrisjpatty/create-react-redux-router-app).
+[medium-reference](https://github.com/hnagarkoti/react-redux-biolerplate).
 Install it once, globally
 ```
 npm install -g create-react-redux-router-app
