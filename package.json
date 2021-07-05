@@ -15,9 +15,13 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
-    "shelljs": "^0.7.8"
+    "inquirer": "^8.1.1",
+    "shelljs": "^0.8.4"
   },
   "bin": {
     "create-react-redux-router-app": "index.js"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
